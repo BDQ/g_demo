@@ -32,5 +32,5 @@ end
 
 gem 'jquery-rails'
 
-gem 'spree', :git => 'git://github.com/spree/spree.git'
-gem 'spree_auth_devise', :github => 'spree/spree_auth_devise'
+gem 'spree', :git => 'git://github.com/spree/spree.git', :ref => 'cc6096f5bcf3c83a11b596f6685ffa0651de7824'
+gem 'spree_auth_devise', :github => 'spree/spree_auth_devise', :ref => 'eb0f30380dc83390b52939195bf92b4195f5c5a3'
